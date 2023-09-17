@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/near-infrared-frontend/static/css/main.0ffb4195.css",
+    "main.js": "/near-infrared-frontend/static/js/main.19935991.js",
+    "static/js/787.f648ebf0.chunk.js": "/near-infrared-frontend/static/js/787.f648ebf0.chunk.js",
+    "index.html": "/near-infrared-frontend/index.html",
+    "main.0ffb4195.css.map": "/near-infrared-frontend/static/css/main.0ffb4195.css.map",
+    "main.19935991.js.map": "/near-infrared-frontend/static/js/main.19935991.js.map",
+    "787.f648ebf0.chunk.js.map": "/near-infrared-frontend/static/js/787.f648ebf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ffb4195.css",
+    "static/js/main.19935991.js"
+  ]
+}
