@@ -85,7 +85,8 @@ function GraphComponent() {
       </div>
       <div className={styles['Graph-right-side']}>
         <div className={`${styles['Bento_NIRGraph']} ${showGraph ? styles['show-element'] : ''}`}>
-          {graphUrl && <img className={styles['NIRGraph']} src={`http://localhost:8000${graphUrl}`} alt="NIR Spectrum" />}
+          {graphUrl && <img className={styles['NIRGraph']} src={`${BASE_API_URL}${graphUrl}`} alt="NIR Spectrum" />}
+
         </div>
 
         <div className={styles['Calculator-container']}>
