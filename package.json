@@ -2,7 +2,7 @@
   "name": "myfrontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ryo121w.github.io/near-infrared-frontend",
+  "homepage": "https://ryo121w.github.io/near-frontend",
   "engines": {
     "node": "14.x"
   },
